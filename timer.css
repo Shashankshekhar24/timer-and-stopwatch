@@ -1,0 +1,28 @@
+.timer,.stopwatch
+{
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+.timer h2,
+.stopwatch h2 {
+  margin-top: 0;
+}
+.timer button,
+.stopwatch button {
+  margin: 5px;
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+body{
+    display: flex;
+    background-color:black ;
+}
